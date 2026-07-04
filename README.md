@@ -37,12 +37,3 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raffol&show_icons=true&theme=tokyonight&hide_border=true" alt="Raffol GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raffol&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
