@@ -46,13 +46,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Raffol&show_icons=true&theme=tokyonight&hide_border=true" alt="Raffol GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raffol&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
----
-
-### 📫 Get in touch
-
-Feel free to open an issue in any of my repos or reach out via my GitHub profile.
-
-<p align="center">
-  <em>Thanks for stopping by! ⭐</em>
-</p>
