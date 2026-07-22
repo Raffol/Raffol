@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About me
 
-- 🌐 Junior web developer — building websites and web applications, on PHP/JS (specifically, working with CMS 1C-Bitrix/Drupal(7,10,11)/      Wordpress) & Laravel
+- 🌐 Junior web developer (1.5 years of commercial experience) — building websites and web applications, on PHP/JS (specifically, working with CMS 1C-Bitrix/Drupal(7,10,11)/      Wordpress) & Laravel
 - 🐍 Currently learning **Python + Django**
 - 🐳 A bit of experience with **Docker** (containers, docker-compose)
 - 📚 Planning to grow into **fullstack &amp; software development**
